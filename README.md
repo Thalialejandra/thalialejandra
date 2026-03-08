@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👩‍💻 Thalia Riquelme
+💻 IT Junior | Interés en desarrollo, datos y tecnología
 
-<!--
-**Thalialejandra/thalialejandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Técnica titulada en Programación y Análisis de Sistemas  
+🎓 Estudiante de Ingeniería Informática (3° año)
 
-Here are some ideas to get you started:
+💡 Intereses profesionales:
+- Desarrollo de software
+- Análisis de datos
+- Soporte tecnológico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologías y herramientas
+
+- Java
+- SQL
+- PHP
+- HTML / CSS
+- JavaScript
+- Git / GitHub
+- Diversos entornos de desarrollo (IDE)
+
+---
+
+## 📊 Experiencia
+
+- Data Entry y revisión de datos
+- Gestión y control de información administrativa
+- Docencia en inglés e iniciación en Scratch
+- Relatoría de capacitaciones y talleres
+
+---
+
+## 🌎 Modalidad laboral
+
+💻 100% remoto  
+🏙 Híbrido en Región Metropolitana o ciudades cercanas  
+📍 Presencial en Santiago, RM
+
+---
+
+## 🔗 Conecta conmigo
+
+📧 Email: [Escribirme](mailto:thaliariquelmemoncada@gmail.com)  
+💼 LinkedIn: [Perfil profesional](https://www.linkedin.com/in/thaliariquelme/)  
+📄 CV: [Ver CV](https://github.com/Thalialejandra/cv-thalia-riquelme/raw/main/cv_thalia_riquelme.pdf)
