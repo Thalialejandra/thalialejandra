@@ -4,6 +4,20 @@
 🚀 Técnica titulada en Programación y Análisis de Sistemas  
 🎓 Estudiante de Ingeniería Informática (3° año)
 
+## 🛠 Proyecto: Mundo Muebles JM – Sitio Web
+
+Sitio web administrado y desarrollado por mí.  
+Tecnologías utilizadas: HTML, CSS, JavaScript y WordPress.
+
+🌐 Sitio online: [mundomueblesjm.cl](https://www.mundomueblesjm.cl)
+
+### Rol en el proyecto
+- Compra y configuración del dominio
+- Diseño y estructura web
+- Creación de contenido y SEO
+- Integración con redes sociales
+- Mantenimiento y actualizaciones
+  
 💡 Intereses profesionales:
 - Desarrollo de software
 - Análisis de datos
